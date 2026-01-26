@@ -170,3 +170,9 @@ Authored an academic article on **Neural Networks learning the concept of influe
 Led end-to-end development of a **remote eCommerce platform** using **Node.js and React**, collaborating directly with non-technical stakeholders to define requirements and prioritize features.
 
 The platform’s success supported the hiring of **three junior engineers**, enabling team and product scale.
+
+## Volunteer Project
+Led end-to-end development of a **remote eCommerce platform** using **Node.js and React**, collaborating directly with non-technical stakeholders to define requirements and prioritize features. The platform’s success supported the hiring of **three junior engineers**, enabling team and product scale.
+
+### Mentorship & Team Growth — Mercado Pokémon Experience
+**Successfully mentored 3 of 5 junior engineers to secure their first professional software engineering jobs**, providing hands-on guidance in backend fundamentals, real-world project delivery, and code review best practices, while fostering their confidence and career readiness.
