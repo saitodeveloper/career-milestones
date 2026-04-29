@@ -81,6 +81,18 @@ Senior Software Engineer with 10+ years of experience building scalable backend 
 
 ---
 
+## Message Aggregation Microservice — Questrade (Node.js / Express / Kafka)
+
+**Problem:** High-frequency inter-service communication generated excessive individual Kafka messages, increasing broker load and reducing throughput across downstream services.
+
+**Action:** Designed and implemented a Node.js/Express microservice to aggregate batches of incoming requests into a single compressed Kafka message, optimizing payload size before forwarding to the next service in the pipeline.
+
+**Impact:** Reduced inter-service communication overhead and improved throughput at scale by consolidating message volume without losing data integrity.
+
+**AI / Knowledge Signal:** Event-driven architecture, message batching strategies, data compression pipelines, Kafka producer/consumer patterns — foundations for high-throughput and real-time data systems.
+
+---
+
 ### KYC & Compliance Engineering — .NET / CI/CD
 **Company:** Questrade
 **Problem:** Financial KYC workflows experienced recurring deployment failures and low production reliability.
