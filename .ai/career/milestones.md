@@ -177,6 +177,17 @@ Senior Software Engineer with 10+ years of experience building scalable backend 
 
 ---
 
+## Image Moderation Microservice — Social Bank (Node.js / Firebase / AI)
+
+**Problem:** Gift card custom covers allowed user-uploaded images with no automated moderation, creating risk of inappropriate or blocked content reaching the platform.
+
+**Action:** Designed and implemented a Node.js microservice integrating Firebase's AI image detection service to automatically analyze and flag user-uploaded gift card cover images, blocking non-compliant content before it reached production.
+
+**Impact:** Automated image moderation at the point of upload, reducing manual review overhead and protecting the platform from inappropriate content at scale.
+
+**AI / Knowledge Signal:** AI-powered content moderation, image classification pipelines, human-safe content enforcement, integration of vision-based ML APIs into production Node.js services.
+
+---
 ### Smart POS Application — White-Label Mobile Platform
 **Company:** Social Bank
 **Period:** Jun 2019 – Sept 2020
