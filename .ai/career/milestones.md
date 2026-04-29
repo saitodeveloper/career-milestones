@@ -23,6 +23,16 @@ Senior Software Engineer with 10+ years of experience building scalable backend 
 
 ---
 
+## AI-Augmented Development — Pac-IO | Paciolan (React.js / NestJS)
+
+**Problem:** Legacy screen-based workflows needed to be modernized into a scalable web application architecture without slowing ongoing product delivery.
+
+**Action:** Acted as an AI-augmented engineer — using Claude as a code generation agent to transcript and migrate legacy screens into modern React.js microfrontends and NestJS microservices. Responsibilities included monitoring agent output, reviewing generated code for correctness and standards compliance, and providing precise feedback to guide iterative generation cycles.
+
+**Impact:** Delivered **3+ microfrontends and microservices** integrated into the Paciolan Pac-IO system, accelerating modernization without proportional increase in engineering headcount.
+
+**AI / Knowledge Signal:** Human-in-the-loop AI workflows, prompt engineering for code generation, code review at scale, LLM-assisted software delivery, microfrontend and microservices architecture.
+
 ### Data Indexing & Search Optimization — Elasticsearch
 **Company:** FullStack Labs
 **Problem:** Relational database–based search suffered from poor relevance and high latency, negatively impacting user experience at scale.
